@@ -8,4 +8,8 @@
     <string name="register">register</string>
     <string name="full_name">full_name</string>
     <string name="logout">logout</string>
+    <string name="ic_home">Beranda</string>
+    <string name="ic_news">Berita</string>
+    <string name="ic_favorite">Favorite</string>
+    <string name="ic_profile">Profile</string>
 </resources>
